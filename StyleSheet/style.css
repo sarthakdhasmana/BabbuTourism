@@ -387,7 +387,7 @@ header a {
     }
 
     .pageBoldHeading {
-        font-size: 60px;
+        font-size: 3.4em;
         line-height: 70px;
         letter-spacing: 8px;
     }
@@ -503,6 +503,7 @@ header a {
 
     .benefits {
         margin-bottom: 2em;
+        align-items: flex-start;
     }
 
     .benefitsDesc {
