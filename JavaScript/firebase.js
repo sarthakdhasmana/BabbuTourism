@@ -10,7 +10,7 @@ import { getAnalytics } from "firebase/analytics";
 const firebaseConfig = {
     apiKey: "AIzaSyAtLCCqpl3SbQoiPS2NIec4OUpZ-6tX0lc",
     authDomain: "https://sarthakdhasmana.github.io/BabbuTourism/",
-    // "babbu-tourism.firebaseapp.com",
+    // "babbu-tourism.firebaseapp.com",firebase deploy --only hosting
     projectId: "babbu-tourism",
     storageBucket: "babbu-tourism.appspot.com",
     messagingSenderId: "836838859548",
