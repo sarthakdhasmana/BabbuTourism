@@ -12,7 +12,7 @@ a {
 
 /*////////////////// header Styling ////////////////////*/
 .headerHeroWrapper {
-    background: url('/Assets/HeroSection/hill_background.png');
+    background: url('img/HeroSection/hill_background.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -278,6 +278,7 @@ header a {
 }
 
 .benefitsTitle {
+    margin-bottom: 4px;
     font-weight: 500;
     font-size: 22px;
     line-height: 33px;
@@ -285,9 +286,9 @@ header a {
 }
 
 .benefitsDesc {
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 27px;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 20px;
     color: #386275;
 }
 
