@@ -12,7 +12,7 @@ a {
 
 /*////////////////// header Styling ////////////////////*/
 .headerHeroWrapper {
-    background: url('/img/HeroSection/Hillbackground.png');
+    background: url('/img/heroSection/Hillbackground.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
