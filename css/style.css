@@ -881,7 +881,7 @@ header a {
     .pageBoldHeading {
         font-size: 3.4em;
         line-height: 70px;
-        letter-spacing: 8px;
+        letter-spacing: 6px;
     }
 
     .headingDescription {
@@ -965,6 +965,8 @@ header a {
 
     .aboutTitle {
         margin: 15px 0px;
+        font-size: 30px;
+        text-align: center;
     }
 
     .aboutLeft,
@@ -984,7 +986,8 @@ header a {
     }
 
     .benefitsHeading {
-        font-size: 36px;
+        font-size: 32px;
+        letter-spacing: 0px;
         text-align: center;
         margin-top: 15px;
     }
