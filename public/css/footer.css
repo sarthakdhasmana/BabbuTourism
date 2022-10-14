@@ -66,4 +66,15 @@
     .contact_details {
         flex-direction: column;
     }
+
+    .footerHeading {
+        font-weight: 600;
+        font-size: 20px;
+    }
+
+    .phoneNo,
+    .mail,
+    .address {
+        font-size: 14px;
+    }
 }
