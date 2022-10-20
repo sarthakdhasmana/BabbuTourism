@@ -7,3 +7,10 @@ knowMorebtn.addEventListener("click", () => {
     amenities.scrollIntoView();
     // knowMorebtn.style.transition = "all 1s";
 })
+
+//contact us btn
+var contactbtn = document.querySelector('.headerButton');
+contactbtn.addEventListener('click', () => {
+    var footer = document.querySelector('footer');
+    footer.scrollIntoView();
+})
