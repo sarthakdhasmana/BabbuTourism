@@ -14,3 +14,10 @@ contactbtn.addEventListener('click', () => {
     var footer = document.querySelector('footer');
     footer.scrollIntoView();
 })
+
+// var name = "Vaibhav";
+function helloName(name) {
+    console.log("Hello this is a function call my name is" + name);
+}
+hello('Vaibhav');
+
